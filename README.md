@@ -4,7 +4,7 @@ Saathi is a web app designed to be your companion when you're new to a city, esp
 
 ### Motivation
 
-While there are many websites available in India for finding rented flats, Saathi goes beyond that. Being wanted to create a platform that not only helps you find a place to live but also enables you to find your perfect flatmate. As I like to call it the "Tinder to find your perfect flatmate."
+While there are many websites available in India for finding rented flats, Saathi goes beyond that. We wanted to create a platform that not only helps you find a place to live but also enables you to find your perfect flatmate. As we like to call it the "Tinder to find your perfect flatmate."
 
 ### How Saathi Works
 
@@ -12,17 +12,12 @@ Saathi takes a unique approach by asking users a series of questions through a q
 
 ### Feedback-Driven and Scalable
 
-I believe in the power of user feedback. My goal is to continually improve Saathi based on the feedback received. I am aiming to make Saathi a scalable product that addresses the needs of the Indian market effectively.
+We believe in the power of user feedback. Our goal is to continually improve Saathi based on the feedback received. We are aiming to make Saathi a scalable product that addresses the needs of the Indian market effectively.
 
 ---
 
 With Saathi, you no longer have to worry about finding a flat or roommates in a new city. 
 
-### Demo
-
-
-
-https://github.com/Sarahkhan20/Saathi/assets/98898049/52e0313c-4518-40ee-bc4f-1f3bdf5d0913
 
 
 
