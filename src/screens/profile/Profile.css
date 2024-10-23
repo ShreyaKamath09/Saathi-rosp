@@ -1,0 +1,148 @@
+.quiz_mid_container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.quiz_mid_profileinfo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.profileinfo_container {
+    width: 630px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.profileinfo_container1 {
+    box-sizing: border-box;
+    width: 100%;
+    height: 150px;
+    background: #ffffff;
+    border: 0.8px solid #eaeaea;
+    border-radius: 5px;
+    display: flex;
+    padding: 1rem;
+}
+
+.profileinfo_container2,
+.profileinfo_container3,
+.profileinfo_container4,
+.profileinfo_container5,
+.profileinfo_container6 {
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 70px;
+    background: #ffffff;
+    border: 0.8px solid #eaeaea;
+    border-radius: 5px;
+    padding: 1rem;
+}
+
+.profileinfo_container4,
+.profileinfo_container6 {
+    height: auto;
+}
+.facts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin-top: 1rem;
+    width: 100%;
+}
+
+.fact-container {
+    background: #f8f8f8;
+    padding: 0.5rem;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.fact-container h4 {
+    margin: 0;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.2;
+    color: #242424;
+}
+
+h3 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: blue;
+    margin: 0 0 0.5rem 0;
+}
+
+.quiz_mid_container_back {
+    height: 23px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    color: #bababa;
+    display: flex;
+    align-items: center;
+    margin: 2rem 0 2rem 3rem;
+    gap: 1rem;
+}
+
+.profile_deets {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    margin-left: 2rem;
+    color: #919191;
+}
+
+.profile_deets h3 {
+    font-size: 30px;
+    line-height: 36px;
+    color: #242424;
+    margin-bottom: 0.5rem;
+}
+
+.edit_profile {
+    width: 400px;
+    height: 32px;
+    margin-top: 2rem;
+    background: #dedede;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.edit_profile img {
+    height: 20px;
+}
+
+.bio_salutation {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #919191;
+    margin-top: 0.5rem;
+}
+
+.profile_picha {
+    width: 103px;
+    height: 113px;
+    object-fit: cover;
+}
